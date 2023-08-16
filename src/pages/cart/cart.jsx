@@ -18,7 +18,7 @@ export const Cartpage = ({}) => {
       <br/>
       <span style={{fontSize:30}}> TOTAL RS:{total}</span>
       
-      <div className='productsshop'>
+      <div className='products' >
           
         {cart.map((product) => (
           <Product

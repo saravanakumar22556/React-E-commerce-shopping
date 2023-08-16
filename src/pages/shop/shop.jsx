@@ -10,7 +10,7 @@ export const Shop = ({}) => {
   return (
     <div className='shop'>
         <div className='shopTitle'>
-            <h1> OCEAN OF PHONES</h1>
+            <h1> MOBILE OCEANS</h1>
         </div>
         <div className='products'>
             {PRODUCTS.map((product)=>(
